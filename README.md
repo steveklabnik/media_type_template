@@ -28,7 +28,7 @@ step towards making it a standard.
 So your webservice lets you do something cool with Widgets online. So you make
 `application/vnd.foocorp.widgets+json`. You register it with the IANA, and it
 [goes under the vendor tree](http://tools.ietf.org/html/rfc4288#section-3.2).
-Then some other comapny comes along, and they also do sweet things with
+Then some other company comes along, and they also do sweet things with
 Widgets. They ideally will work with you on making the media type applicable
 to both themselves and you.
 
